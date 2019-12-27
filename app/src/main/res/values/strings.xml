@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Challenge 003</string>
+
+    <string-array name="languages">
+        <item>Select an option</item>
+        <item>PHP</item>
+        <item>JAVA</item>
+        <item>PYTHON</item>
+        <item>KOTLIN</item>
+        <item>CSS</item>
+        <item>HTML</item>
+    </string-array>
+</resources>
